@@ -1,0 +1,16 @@
+{
+  "short_name": "Reno",
+  "name": "Reno",
+  "description": "The EigenLayer Liquid Restaking Hub",
+  "homepage_url": "https://app.renzoprotocol.com/",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "148x148"
+    }
+  ]
+}

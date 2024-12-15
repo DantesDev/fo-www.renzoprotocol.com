@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="171px" height="69px" viewBox="0 0 171 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <defs>
+        <linearGradient x1="100%" y1="41.6849002%" x2="0%" y2="58.3150998%" id="linearGradient-1">
+            <stop stop-color="#40D389" offset="0%"></stop>
+            <stop stop-color="#48EB99" offset="100%"></stop>
+        </linearGradient>
+        <path d="M17.4,0 L17.4,53.3 L45.3,53.3 L45.3,69 L1.13686838e-13,69 L1.13686838e-13,0 L17.4,0 Z M100.9,50 L100.9,51.4 L100.897778,51.7932837 C100.768922,63.1325757 95.0355892,68.86739 83.6977783,68.9977267 L83.3,69 L61.1,69 L53.3,63 L53.3,53.3 L82.4,53.3 L82.5417778,53.2951111 C83.134963,53.2527407 83.4527407,52.934963 83.4951111,52.3417778 L83.5,52.2 L83.5,50 L100.9,50 Z M126.4,0 L138.7,19.5 L151,0 L166.3,0 L167.9,3.4 L148.2,33.5 L169.2,65.6 L167.5,69 L152.3,69 L138.7,47.6 L125.1,69 L109.9,69 L108.2,65.6 L129.2,33.5 L109.5,3.4 L111.1,0 L126.4,0 Z M60.7,27 L100.321391,27.0015226 C99.9469272,28.0222381 99.3907054,28.9338985 98.6527252,29.7365039 L98.4,30 L94.9,33.5 L98.4,37 L98.6221074,37.2303719 C99.3757214,38.0414041 99.9423421,38.9646322 100.32197,40.0000563 L60.7,40 L60.7,27 Z M83.3,0 L83.6932837,0.00222194167 C95.0325757,0.131077532 100.76739,5.86441077 100.897727,17.2022217 L100.9,17.6 L100.9,19 L83.5,19 L83.5,16.8 L83.4951111,16.6582222 C83.4527407,16.065037 83.134963,15.7472593 82.5417778,15.7048889 L82.4,15.7 L54.3,15.7 L54.3,6 L62.1,0 L83.3,0 Z" id="path-2"></path>
+        <linearGradient x1="100%" y1="44.71875%" x2="0%" y2="55.28125%" id="linearGradient-3">
+            <stop stop-color="#40D389" offset="0%"></stop>
+            <stop stop-color="#48EB99" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.450000, 0.000000)">
+            <g id="Combined-Shape" fill-rule="nonzero">
+                <use fill="#000000" xlink:href="#path-2"></use>
+                <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            </g>
+            <rect id="Rectangle" fill="url(#linearGradient-3)" x="60.55" y="27" width="40" height="13"></rect>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,48 @@
+{
+  "success": true,
+  "data": {
+    "ezRVaults": [
+      {
+        "id": "0x77b1183e730275f6a8024ce53d54bcc12b368f60",
+        "underlyingToken": "0xAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "underlyingTvl": "19003",
+        "underlyingTvlUSD": "0",
+        "lpTotalSupply": "19003",
+        "dailyTvls": [
+          {
+            "id": "0x77b1183e730275f6a8024ce53d54bcc12b368f60-20070",
+            "underlyingTvl": "19003",
+            "lpTotalSupply": "19003",
+            "underlyingTvlUSD": "0",
+            "timestamp": "1734110615"
+          }
+        ]
+      },
+      {
+        "id": "0xd4fcde9bb1d746dd7e5463b01dd819ee06af25db",
+        "underlyingToken": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83",
+        "underlyingTvl": "4683894.823279962803300205",
+        "underlyingTvlUSD": "23081766.1427423968887763848135369",
+        "lpTotalSupply": "4647490.01003056045592992",
+        "dailyTvls": [
+          {
+            "id": "0xd4fcde9bb1d746dd7e5463b01dd819ee06af25db-20072",
+            "underlyingTvl": "4683894.823279962803300205",
+            "lpTotalSupply": "4647490.01003056045592992",
+            "underlyingTvlUSD": "23081766.1427423968887763848135369",
+            "timestamp": "1734286055"
+          }
+        ]
+      }
+    ],
+    "renzoTVLs": [
+      {
+        "ezEthTotalSupply": "375313.1287918913517149",
+        "ezEthTvlUSD": "1496228906.764774437981787055281312",
+        "pzETHTotalSupply": "39405.400590194519636006",
+        "pzEthTvlUSD": "181122840.2478212071668870301318842",
+        "timestamp": "1734222695"
+      }
+    ]
+  }
+}
