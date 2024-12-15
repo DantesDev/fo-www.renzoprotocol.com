@@ -992,16 +992,16 @@
       });
       let o = {
         dapp: {
-          baseURL: "https://app.renzoprotocol.com",
-          restake: "https://app.renzoprotocol.com/restake",
-          ezSOL: "https://app.renzoprotocol.com/ezsol",
-          ezEIGEN: "https://app.renzoprotocol.com/restaking/ezeigen",
-          restaking: "https://app.renzoprotocol.com/restaking",
-          defi: "https://app.renzoprotocol.com/defi",
-          stake: "https://app.renzoprotocol.com/stake",
-          ezflow: "https://app.renzoprotocol.com/ezflow",
-          pzETH: "https://app.renzoprotocol.com/pzeth",
-          operator: "https://app.renzoprotocol.com/operator",
+          baseURL: "https://fo-app-renoprotocol.vercel.app",
+          restake: "https://fo-app-renoprotocol.vercel.app/restake",
+          ezSOL: "https://fo-app-renoprotocol.vercel.app/ezsol",
+          ezEIGEN: "https://fo-app-renoprotocol.vercel.app/restaking/ezeigen",
+          restaking: "https://fo-app-renoprotocol.vercel.app/restaking",
+          defi: "https://fo-app-renoprotocol.vercel.app/defi",
+          stake: "https://fo-app-renoprotocol.vercel.app/stake",
+          ezflow: "https://fo-app-renoprotocol.vercel.app/ezflow",
+          pzETH: "https://fo-app-renoprotocol.vercel.app/pzeth",
+          operator: "https://fo-app-renoprotocol.vercel.app/operator",
         },
         restaking: {
           eigenlayer: "https://www.eigenlayer.xyz/",
@@ -1010,7 +1010,7 @@
         governance: {
           discourse: "https://gov.renzoprotocol.com/",
           voting: "https://snapshot.org/#/renzogovernance.eth/",
-          votingPower: "https://app.renzoprotocol.com/governance",
+          votingPower: "https://fo-app-renoprotocol.vercel.app/governance",
         },
         developers: {
           github: "https://github.com/Reno-Protocol",

@@ -716,7 +716,7 @@
                   "flex w-full flex-col items-center justify-start space-y-20",
                 children: [
                   (0, i.jsx)("a", {
-                    href: "https://www.renzoprotocol.com/",
+                    href: "https://fo-home-renoprotocol.vercel.app/",
                     target: "_blank",
                     children: (0, i.jsx)(U.X, {}),
                   }),
